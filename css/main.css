@@ -15,9 +15,8 @@ html, body { height: 100%; }
 body {
   background: #333 url('bg.jpg') no-repeat center center fixed;
   background-size: cover;
-  font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
-  text-align: center;
+  font: 14px 'Helvetica Neue', 'Helvetica-Neue', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+  line-height: 1.4;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -26,29 +25,16 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a         { color: #fff; }
+a:hover   { color: #fff; }
+a:visited { color: #fff; }
 
 /*****************************************************************************/
 /*
 /* Home
 /*
 /*****************************************************************************/
-.posts {
-  list-style-type: none;
-  margin-bottom: 2em;
-}
 
-.posts li {
-  line-height: 1.75em;
-}
-
-.posts span {
-  color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
-}
 
 /*****************************************************************************/
 /*
@@ -56,70 +42,29 @@ a:visited { color: #a0a; }
 /*
 /*****************************************************************************/
 
-.site {
-  font-size: 115%;
-  text-align: justify;
-  width: 42em;
-  margin: 3em auto 2em;
-  line-height: 1.5em;
+body {
+  color: #fff;
 }
 
-.header a {
-  font-weight: bold;
-  text-decoration: none;
+h1.logo {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-weight: 300;
 }
 
-.title {
-  display: inline-block;
-  margin-bottom: 2em;
+h1.logo a { text-decoration: none; }
+
+h1.logo .twitter-name {
+  margin-top: 10px;
 }
 
-.title a {
-  color: #a00;
-}
-
-.title a:hover {
-  color: #000;
-}
-
-.header a.extra {
-  color: #aaa;
-  margin-left: 1em;
-}
-
-.header a.extra:hover {
-  color: #000;
-}
-
-.meta {
-  color: #aaa;
-}
-
-.footer {
-  font-size: 80%;
-  color: #666;
-  border-top: 4px solid #eee;
-  margin-top: 2em;
-  overflow: hidden;
-}
-
-.footer .contact {
-  float: left;
-  margin-right: 3em;
-}
-
-.footer .contact a {
-  color: #8085C1;
-}
-
-.footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right;
-}
-
-.footer .rss img {
-  border: 0;
+h2.resume {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  text-align: right;
+  font-weight: 300;
 }
 
 /*****************************************************************************/
@@ -128,34 +73,29 @@ a:visited { color: #a0a; }
 /*
 /*****************************************************************************/
 
-/* standard */
-.post pre {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .4em;
+.container-padding {
+  max-width: 600px;
+  margin: 140px auto 0;
 }
 
-.post ul, .post ol {
-  margin-left: 1.35em;
+.container-padding .container {
+  background: rgba(255,255,255,0.95);
+  padding: 20px;
+  margin: 20px;
+  color: #222;
 }
 
-.post code {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .2em;
-}
+.container-padding .container a         { color: #222; }
+.container-padding .container a:hover   { color: #222; }
+.container-padding .container a:visited { color: #222; }
 
-.post pre code {
-  border: none;
-}
+/*****************************************************************************/
+/*
+/* Media queries
+/*
+/*****************************************************************************/
 
-/* terminal */
-.post pre.terminal {
-  border: 1px solid #000;
-  background-color: #333;
-  color: #FFF;
-}
-
-.post pre.terminal code {
-  background-color: #333;
+@media(min-width: 768px) {
+  h1.logo { position: fixed; }
+  h2.resume { position: fixed; }
 }
