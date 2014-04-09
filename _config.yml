@@ -1,3 +1,4 @@
 name: Ethan Czahor
 markdown: redcarpet
 pygments: true
+permalink: /:categories/:title

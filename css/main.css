@@ -10,7 +10,7 @@
   padding: 0;
 }
 
-html, body { height: 100%; }
+html { height: 100%; }
 
 body {
   background: #333 url('bg.jpg') no-repeat center center fixed;
@@ -26,8 +26,8 @@ h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
 a         { color: #fff; }
-a:hover   { color: #fff; }
 a:visited { color: #fff; }
+a:hover   { color: #f0f0f0; }
 
 /*****************************************************************************/
 /*
@@ -50,16 +50,27 @@ h1.logo {
   position: absolute;
   top: 10px;
   left: 10px;
-  font-weight: 300;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 1;
+  letter-spacing: -1px;
 }
 
 h1.logo a { text-decoration: none; }
 
-h1.logo .twitter-name {
-  margin-top: 10px;
+h3.contact {
+  position: absolute;
+  top: 60px;
+  left: 10px;
+  font-style: italic;
+  font-weight: 300;
 }
 
-h2.resume {
+h3.contact a {
+  text-decoration: none;
+}
+
+h3.resume {
   position: absolute;
   top: 10px;
   right: 10px;
@@ -74,15 +85,22 @@ h2.resume {
 /*****************************************************************************/
 
 .container-padding {
-  max-width: 600px;
-  margin: 140px auto 0;
+  max-width: 580px;
+  margin: 100px auto 0;
 }
 
 .container-padding .container {
   background: rgba(255,255,255,0.95);
   padding: 20px;
-  margin: 20px;
+  margin: 20px 20px 0;
   color: #222;
+}
+
+.container-padding .container h2 { text-transform: uppercase; }
+
+.container-padding .container p.meta {
+  font-size: 90%;
+  color: #bbb;
 }
 
 .container-padding .container a         { color: #222; }
@@ -97,5 +115,10 @@ h2.resume {
 
 @media(min-width: 768px) {
   h1.logo { position: fixed; }
-  h2.resume { position: fixed; }
+  h3.contact { position: fixed; }
+  h3.resume { position: fixed; }
+
+  .container-padding .container {
+    font-size: 16px;
+  }
 }
