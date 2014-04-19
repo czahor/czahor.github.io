@@ -2,3 +2,4 @@ name: Ethan Czahor
 markdown: redcarpet
 pygments: true
 permalink: /:categories/:title
+timezone: America/Los_Angeles
