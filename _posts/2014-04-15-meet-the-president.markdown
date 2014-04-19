@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Meet the President"
+title:  On the Ratify "Meet the President" Contest
 date:   2014-04-15 00:00:00 -0800
 redirect_from:
   - /
