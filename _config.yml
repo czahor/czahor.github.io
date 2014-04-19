@@ -1,3 +1,5 @@
+gems:
+  - jekyll-redirect-from
 name: Ethan Czahor
 markdown: redcarpet
 pygments: true
