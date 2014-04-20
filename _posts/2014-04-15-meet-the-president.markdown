@@ -2,8 +2,6 @@
 layout: post
 title:  On the Ratify "Palo Alto Presidential" Contest
 date:   2014-04-15 00:00:00 -0800
-redirect_from:
-  - /
 ---
 
 On April 18, 2014, I purchased one (1) Photo Line For Two ticket to a 
