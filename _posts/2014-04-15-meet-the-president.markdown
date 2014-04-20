@@ -4,6 +4,8 @@ title:  On the Ratify "Palo Alto Presidential" Contest
 date:   2014-04-15 00:00:00 -0800
 ---
 
+<div class="tldr">If you win, I'll give you my ticket to meet the President.</div>
+
 On April 18, I purchased one (1) "Photo Line For Two" ticket to 
 <a href="https://my.democrats.org/page/contribute/PaloAltoReceptionMay8?custom1=98870421" target="_blank">a reception in Palo Alto</a> featuring President Obama. 
 I thought it would be a great idea to give the ticket to my startup and let them do something fun with it. 

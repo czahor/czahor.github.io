@@ -100,12 +100,27 @@ h3.resume {
   color: #222;
 }
 
-.container-padding .container h2 { text-transform: uppercase; }
+.container-padding .container h2 { 
+  text-align: center;
+  text-transform: uppercase; 
+}
+
+.container-padding .container .tldr { 
+  border-bottom: 1px dotted #ddd;
+  font-size: 95%;
+  font-style: italic;
+  margin-top: 5px;
+  padding: 0 0 15px;
+  text-align: center;
+}
 
 .container-padding .container p.meta {
-  font-size: 90%;
+  font-size: 80%;
   color: #bbb;
   margin-top: 0;
+  position: relative;
+  top: -5px;
+  text-align: right;
 }
 
 .container-padding .container a         { color: #222; }
