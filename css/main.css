@@ -13,7 +13,7 @@
 html { height: 100%; }
 
 body {
-  background: #333 url('bg.jpg') no-repeat center center fixed;
+  background: #333 url('bg.jpg') no-repeat left top fixed;
   background-size: cover;
   font: 14px 'Helvetica Neue', 'Helvetica-Neue', 'HelveticaNeue', Helvetica, Arial, sans-serif;
   line-height: 1.4;
@@ -96,7 +96,7 @@ h3.resume {
   background: rgba(255,255,255,0.98);
   border: 8px solid #eee;
   padding: 20px;
-  margin: 20px 20px 0;
+  margin: 10px 10px 0;
   color: #222;
 }
 
