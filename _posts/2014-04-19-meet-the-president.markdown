@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Ratify &ldquo;Special Trip&rdquo; Contest
+title:  On Ratify's Contest
 description: If you win, I'll give you my tickets to meet the President.
 date:   2014-04-19 00:00:00 -0800
 ---
@@ -11,7 +11,7 @@ I thought it would be a great idea to give the tickets to my startup and let the
 
 However, due to campaign finance laws, I can't legally give the tickets to Ratify Inc., and they can't legally give the tickets to you.
 
-But I can tell you here, though, on my personal website, that if you win [Ratify's "Special Trip" contest](http://www.ratifyapp.com/contest), 
+But I can tell you here, though, on my personal website, that if you win [Ratify's contest](http://www.ratifyapp.com/contest), 
 **I promise to personally give you my 2 Photo Line tickets to a reception in Palo Alto featuring President Obama**. Let me be clear: there will be no transaction or coordination between me, Ratify Inc., and the winner of Ratify's contest, concerning the changing of ownership of the tickets to the Palo Alto event. I will merely wait until Ratify publicly announces the contest winner, then indepently reach out to said winner and coordinate the ticket exchange.
 
 By the way, should you receive my tickets, you'll still have to pass the Secret Service background check on your own; I can't provide any assistance or guarantees concerning that matter. 
