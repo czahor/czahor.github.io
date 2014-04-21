@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  On Ratify's Contest
+title:  "Know this, Ratify contest entrants:"
 description: If you win, I'll give you my tickets to meet the President.
 date:   2014-04-19 00:00:00 -0800
 ---
