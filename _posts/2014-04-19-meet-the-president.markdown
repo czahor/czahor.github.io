@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  On the Ratify &ldquo;Special Silicon Valley Trip&rdquo; Contest
+title:  The Ratify &ldquo;Special Silicon Valley Trip&rdquo; Contest
 description: If you win, I'll give you my ticket to meet the President.
-date:   2014-04-15 00:00:00 -0800
+date:   2014-04-19 00:00:00 -0800
 ---
-
-<div class="tldr">{{ page.description }}</div>
 
 On April 18, I purchased one (1) "Photo Line For Two" ticket to 
 <a href="https://my.democrats.org/page/contribute/PaloAltoReceptionMay8?custom1=98870421" target="_blank">a reception in Palo Alto</a> featuring President Obama. 
@@ -18,7 +16,7 @@ But I can tell you here, though, on my personal website, that if you win [Ratify
 
 By the way, should you receive my ticket, you'll still have to pass the Secret Service background check on your own; I can't provide any assistance or guarantees concerning that matter. 
 
-What I'm doing has absolutely nothing to do with President Obama himself, his party, or his policies. It also has absolutely nothing to do with my opinion on campaign finance law. I just think it'd be great for someone not as fortunate as me to be able to meet the President, and I'm trying to accomplish that within the bounds of the law.
+What I'm doing has absolutely nothing to do with President Obama himself, his party, or his policies. It also has absolutely nothing to do with my opinion on campaign finance law. I just think it'd be great to give someone the opportunity to meet the President, and I'm trying to accomplish that within the bounds of the law.
 
 So I hope you [enter the contest](http://www.ratifyapp.com/contest)! And if you win, I hope you have a great time! 
 Feel free to tweet at me (<a href="https://twitter.com/czahor" target="_blank">@czahor</a>) or email me (<a href="mailto:ethan@czahor.com" target="_blank">ethan@czahor.com</a>) with any questions you might have.
