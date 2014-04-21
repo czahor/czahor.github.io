@@ -1,20 +1,20 @@
 ---
 layout: post
 title:  The Ratify &ldquo;Special Trip&rdquo; Contest
-description: If you win, I'll give you my ticket to meet the President.
+description: If you win, I'll give you my tickets to meet the President.
 date:   2014-04-19 00:00:00 -0800
 ---
 
-On April 18, I purchased one (1) "Photo Line For Two" ticket to 
+On April 18, I purchased 2 Photo Line tickets to 
 <a href="https://my.democrats.org/page/contribute/PaloAltoReceptionMay8?custom1=98870421" target="_blank">a reception in Palo Alto</a> featuring President Obama. 
-I thought it would be a great idea to give the ticket to my startup and let them do something fun with it. 
+I thought it would be a great idea to give the tickets to my startup and let them do something fun with it. 
 
-However, due to campaign finance laws, I can't legally give the ticket to Ratify Inc., and they can't legally give the ticket to you.
+However, due to campaign finance laws, I can't legally give the tickets to Ratify Inc., and they can't legally give the tickets to you.
 
 But I can tell you here, though, on my personal website, that if you win [Ratify's "Special Trip" contest](http://www.ratifyapp.com/contest), 
-**I promise to personally give you my ticket to the reception in Palo Alto featuring President Obama**. Let me be clear: there will be no transaction or coordination between me, Ratify Inc., and the winner of Ratify's contest, concerning the changing of ownership of the ticket to the Palo Alto event. I will merely wait until Ratify publicly announces the contest winner, then indepently reach out to said winner and coordinate the ticket exchange.
+**I promise to personally give you my 2 Photo Line tickets to a reception in Palo Alto featuring President Obama**. Let me be clear: there will be no transaction or coordination between me, Ratify Inc., and the winner of Ratify's contest, concerning the changing of ownership of the tickets to the Palo Alto event. I will merely wait until Ratify publicly announces the contest winner, then indepently reach out to said winner and coordinate the ticket exchange.
 
-By the way, should you receive my ticket, you'll still have to pass the Secret Service background check on your own; I can't provide any assistance or guarantees concerning that matter. 
+By the way, should you receive my tickets, you'll still have to pass the Secret Service background check on your own; I can't provide any assistance or guarantees concerning that matter. 
 
 What I'm doing has absolutely nothing to do with President Obama himself, his party, or his policies. It also has absolutely nothing to do with my opinion on campaign finance law. I just think it'd be great to give someone the opportunity to meet the President, and I'm trying to accomplish that within the bounds of the law.
 
