@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Hey, Clear"
+date:   2015-04-10 11:28:30
+---
+
+After graduating college, I moved to West Hollywood to study improv comedy at The Groundlings. I used my Twitter feed to test material, all of which was humorous and well-intended within the context of my community. Several years and career changes later, after having success in the startup world and battling Lyme disease, I landed my dream job: CTO of Jeb Bush's political operations. Unfortunately, my Twitter feed was unearthed, spun completely out of context to make me appear as someone I am certainly not, and I lost my job. I created Clear to make sure situations like mine never happen to anyone ever again.

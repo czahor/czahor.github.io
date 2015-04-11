@@ -15,7 +15,7 @@ html { height: 100%; }
 body {
   background: #333 url('bg.jpg') no-repeat left top fixed;
   background-size: cover;
-  font: 14px 'Helvetica Neue', 'Helvetica-Neue', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+  font: 14px 'proxima-nova', 'Helvetica Neue', 'Helvetica-Neue', 'HelveticaNeue', Helvetica, Arial, sans-serif;
   line-height: 1.4;
 }
 
@@ -88,8 +88,8 @@ h3.resume {
 /*****************************************************************************/
 
 .container-padding {
-  max-width: 580px;
-  margin: 100px auto 0;
+  max-width: 520px;
+  margin: 160px auto 0;
 }
 
 .container-padding .container {
@@ -143,6 +143,7 @@ h3.resume {
   h3.contact { position: fixed; }
   h3.resume { position: fixed; }
 
+  .container-padding { margin-top: 20px; }
   .container-padding .container {
     font-size: 16px;
   }

@@ -124,7 +124,7 @@ PLATFORMS
 DEPENDENCIES
   eventmachine (= 1.0.6)
   github-pages
-  guard
+  guard (~> 1)
   guard-jekyll-plus
   guard-livereload
   jekyll-redirect-from
