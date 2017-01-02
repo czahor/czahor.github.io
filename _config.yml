@@ -2,6 +2,6 @@ gems:
   - jekyll-redirect-from
 name: Ethan Czahor
 markdown: kramdown
-pygments: true
+highlighter: rouge
 permalink: /:categories/:title
 timezone: America/Los_Angeles
