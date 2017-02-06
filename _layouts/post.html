@@ -2,10 +2,10 @@
 layout: default
 ---
 <article class="p2 overflow-scroll">
-  <h1 class="m0">
+  <h1 class="mt0 mb1">
     <a href="{{ page.link }}">{{ page.title }}</a>
   </h1>
-  <div>{{ page.date | date: "%B %-d %Y" }}</div>
+  <div>{{ page.date | date: "%b %-d, %Y" }}</div>
   <hr>
   <div class="content">{{ content }}</div>
 </article>
