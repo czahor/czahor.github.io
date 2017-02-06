@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to scale"
+title:  "How to deprecate a codebase"
 date:   2016-02-06
 ---
 

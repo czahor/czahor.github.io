@@ -4,9 +4,16 @@ title: Ethan Jon Czahor
 description: The personal website of Ethan Jon Czahor.
 ---
 <article class="p2">
-  {% for post in site.posts %}
-    <h2 class="m0">
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </h2>
-  {% endfor %}
+  <h2 class="m0">Articles</h2>
+  <hr />
+  <ul class="list-reset">
+    {% for page in site.posts %}
+      <li class="mb2">
+        <h3 class="mt0 mb1 h2">
+          <a href="{{ page.url }}" class="text-decoration-none">{{ page.title }}</a>
+        </h3>
+        <div>{{ page.date | date: "%b %-d, %Y" }}</div>
+      </li>
+    {% endfor %}
+  </ul>
 </article>
