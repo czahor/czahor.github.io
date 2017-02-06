@@ -4,18 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>{{ page.title }}</title>
-    <meta name="description" content="{{page.description}}">
+    <meta name="description" content="{{ page.description }}">
     <meta name="viewport" content="width=device-width">
     <meta property="og:title" content="{{ page.title }}">
-    <meta property="og:url" content="http://e10jc.com{{ page.url }}">
-    <meta property="og:image" content="http://e10jc.com/css/bg.jpg">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:image" content="{{ site.url }}/css/bg.jpg">
     <link rel="stylesheet" href="/css/basscss.css">
     <link rel="stylesheet" href="/css/basscss-reponsive-typography.css">
     <link rel="stylesheet" href="/css/colors.css">
     <link rel="stylesheet" href="/css/main.css">
     <link rel="shortcut icon" href="/favicon.ico">
-    <script src="//use.typekit.net/ith5kam.js"></script>
-    <script>try{Typekit.load();}catch(e){}</script>
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
