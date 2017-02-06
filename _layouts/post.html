@@ -1,12 +1,11 @@
 ---
 layout: default
 ---
-<div class="container-padding">
-  <div class="container">
-    <p class="meta">{{ page.date | date: "%B %-d %Y" }}</p>
-    <h2>{{ page.title }}</h2>
-    <div class="tldr">{{ page.description }}</div>
-    <hr>
-    <div class="post">{{ content }}</div>
-  </div>
-</div>
+<article class="p2 overflow-scroll">
+  <h1 class="m0">
+    <a href="{{ page.link }}">{{ page.title }}</a>
+  </h1>
+  <div>{{ page.date | date: "%B %-d %Y" }}</div>
+  <hr>
+  <div class="content">{{ content }}</div>
+</article>

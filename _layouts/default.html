@@ -9,8 +9,9 @@
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:url" content="http://e10jc.com{{ page.url }}">
     <meta property="og:image" content="http://e10jc.com/css/bg.jpg">
-    <link rel="stylesheet" href="/css/syntax.css">
-    <link rel="stylesheet" href="/css/animate.css">
+    <link rel="stylesheet" href="/css/basscss.css">
+    <link rel="stylesheet" href="/css/basscss-reponsive-typography.css">
+    <link rel="stylesheet" href="/css/colors.css">
     <link rel="stylesheet" href="/css/main.css">
     <link rel="shortcut icon" href="/favicon.ico">
     <script src="//use.typekit.net/ith5kam.js"></script>
@@ -24,25 +25,17 @@
       ga('send', 'pageview');
     </script>
   </head>
-  <body>
-    <h1 class="logo animated slideInLeft">
-      <a href="/">ethan jon<br>czahor</a>
-    </h1>
-    <h3 class="contact animated slideInLeft">
-      <a href="http://instagram.com/e10jc" target="_blank">insta</a> |
-      <a href="http://twitter.com/e10jc" target="_blank">twitter</a> |
-      <a href="mailto:ethan@czahor.com" target="_blank">email</a>
-    </h3>
-    <h3 class="resume animated slideInRight">
-      cto <a href="https://ijr.com" target="_blank">ijr</a><br>
-      <em>former</em><br>
-      founder/cto <a href="http://bold.global" target="_blank">bold</a><br>
-      cto <a href="https://www.americarisingpac.org" target="_blank">america rising</a><br>
-      founder <a href="https://www.heyclear.com" target="_blank">clear</a><br>
-      cto <a href="http://www.rtw.io" target="_blank">ready to win</a><br>
-      founder/cto <a href="http://techcrunch.com/2012/03/15/aol-snaps-up-hyper-local-photosharing-app-hipster/" target="_blank">hipster</a><br>
-      vp eng/acting cto <a href="http://www.honest.com" target="_blank">honest</a><br>
-    </h3>
-    {{ content }}
+  <body class="m0 p2">
+    <header class="mb2">
+      <nav>
+        <div class="flex justify-between items-center">
+          <a class="h2 white text-decoration-none" href="/">ethan jon czahor</a>
+          <a class="white text-decoration-none" href="/about.html">about</a>
+        </div>
+      </nav>
+    </header>
+    <main class="mx-auto">
+      {{ content }}
+    </main>
   </body>
 </html>

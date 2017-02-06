@@ -3,3 +3,10 @@ layout: default
 title: Ethan Jon Czahor
 description: The personal website of Ethan Jon Czahor.
 ---
+<article class="p2">
+  {% for post in site.posts %}
+    <h2 class="m0">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h2>
+  {% endfor %}
+</article>

@@ -1,7 +1,8 @@
-gems:
-  - jekyll-redirect-from
 name: Ethan Czahor
 markdown: kramdown
-highlighter: rouge
-permalink: /:categories/:title
-timezone: America/Los_Angeles
+kramdown:
+  coderay_line_numbers: nil
+  input: GFM
+  syntax_highlighter: rouge
+permalink: /:year/:month/:title
+timezone: America/New_York
