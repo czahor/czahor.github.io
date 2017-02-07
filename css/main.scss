@@ -2,7 +2,7 @@
 ---
 
 body {
-  background: #333 url('bg5.jpg') no-repeat right top fixed;
+  background: #333 url('{{ site.images_folder }}bg5.jpg') no-repeat right top fixed;
   background-size: cover;
   font-family: 'Lato', sans-serif;
 }

@@ -6,3 +6,4 @@ kramdown:
   syntax_highlighter: rouge
 permalink: /:year/:month/:title
 timezone: America/New_York
+images_folder: /images/

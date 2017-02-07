@@ -1,7 +1,10 @@
 ---
 layout: post
-title:  "How to build a new API on top of Wordpress"
-date:   2016-02-05
+title: How to build a new API on top of Wordpress
+description: This is the description.
+date: 2016-02-05
+image: wordpress.png
+hacker_news_url: https://news.ycombinator.com/item?id=13588383
 ---
 
 Ice cream jelly-o danish sesame snaps. Topping cheesecake cookie dragée icing sweet jujubes sesame snaps. Cotton candy jujubes biscuit donut bear claw marshmallow ice cream marzipan sweet roll. Sugar plum dragée oat cake icing. Brownie danish jelly beans oat cake cupcake sesame snaps bonbon cake. Sugar plum jujubes chocolate cake cotton candy carrot cake tootsie roll apple pie cake chocolate cake. Bear claw jelly-o sugar plum sweet roll. Pie lollipop liquorice. Cake lollipop sweet sweet roll ice cream pastry tart brownie halvah. Apple pie jujubes apple pie jelly jelly-o. Carrot cake halvah croissant. Wafer muffin danish topping.
