@@ -7,11 +7,11 @@ layout: default
     <a href="{{ page.link }}" class="text-decoration-none">{{ page.title }}</a>
   </h1>
   <div class="h5 my1">{{ page.date | date: "%b %-d, %Y" }}</div>
-  <hr class="my2 border-gray" />
-  {% if page.image %}<img src="/images/{{ page.image }}" class="fit block" />{% endif %}
+  <hr class="my2 border-gray">
+  {% if page.image %}<img src="/images/{{ page.image }}" class="fit block">{% endif %}
   <div class="content">{{ content }}</div>
-  <hr class="my2 border-gray" />
   {% if page.hacker_news_url %}
+    <hr class="my2 border-gray col-2 ml0">
     <p>If you enjoyed this article, please <a href="{{ page.hacker_news_url }}">upvote it</a> on Hacker News.</p>
   {% endif %}
 </article>
