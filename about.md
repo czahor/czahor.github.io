@@ -16,7 +16,7 @@ and [Honest](http://www.honest.com).
 I've been programming computers for as long as I can remember, but before I became serious about it,
 I spent several years in New York City and Los Angeles taking acting and improv classes, working as a
 body double or an extra, and waiting tables and working at Radio Shack. I dropped out of college 3 times, changed my major 4 times,
-and didn't graduate until I was 26. But you know, [a lot of people go to college for 8 years](https://www.youtube.com/watch?v=UOsQ2epsI2M).
+and didn't graduate until I was 25. But you know, [a lot of people go to college for 7 years](https://www.youtube.com/watch?v=UOsQ2epsI2M&t=5s).
 
 I was infamously
 [fired from a Presidential campaign](https://www.bloomberg.com/politics/articles/2015-02-10/ethan-czahor-jeb-bush-s-new-cto-is-guilty-of-being-a-young-conservative)
