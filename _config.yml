@@ -1,7 +1,6 @@
 name: Ethan Czahor
 markdown: kramdown
 kramdown:
-  coderay_line_numbers: nil
   input: GFM
   syntax_highlighter: rouge
 permalink: /:year/:month/:title
