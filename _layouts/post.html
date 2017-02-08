@@ -4,7 +4,12 @@ layout: default
 
 <article class="p2 overflow-scroll">
   <h1 class="mt0 mb1">
-    <a href="{{ page.link }}" class="text-decoration-none">{{ page.title }}</a>
+    <a href="{{ page.link }}" class="text-decoration-none">
+      {{ page.title }}
+      {% if page.path contains 'drafts' %}
+        <span class="gray"> (draft)</span>
+      {% endif %}
+    </a>
   </h1>
   <div class="h5 my1">{{ page.date | date: "%b %-d, %Y" }}</div>
   <hr class="my2 border-gray">
