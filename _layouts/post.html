@@ -15,8 +15,5 @@ layout: default
   <hr class="my2 border-gray">
   {% if page.image %}<img src="/images/{{ page.image }}" class="fit block">{% endif %}
   <div class="content">{{ content }}</div>
-  {% if page.hacker_news_url %}
-    <hr class="my2 border-gray col-2 ml0">
-    <p>If you enjoyed this article, please <a href="{{ page.hacker_news_url }}">upvote it</a> on Hacker News.</p>
-  {% endif %}
+  <hr class="my2 border-gray col-2 ml0">
 </article>
