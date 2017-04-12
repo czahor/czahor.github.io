@@ -25,7 +25,7 @@ I apologized profusely and was thoroughly embarrassed, and even
 [made an app](https://techcrunch.com/2015/04/20/sorry-about-that-f-bomb/)
 that would prevent my situation from happening to others.
 
-But you know what? Looking back on it, some of my jokes were pretty damn funny, and the awful terms that were used to describe me
+But you know what? Looking back on it, some of my jokes were pretty funny (some were sorely unfunny), and the awful terms that were used to describe me
 -- misogynist, racist, bigot, etc. -- were/are so incredibly inaccurate, that I wish I would have stuck up for myself more at the time. Oh well.
 
 You can find me on [Instagram](http://instagram.com/e10jc) or [Twitter](http://twitter.com/e10jc),
