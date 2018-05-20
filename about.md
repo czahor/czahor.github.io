@@ -27,5 +27,4 @@ But you know what? Looking back on it, some of my jokes were pretty funny (some 
 sorely unfunny), and the awful terms that were used to describe me were/are so incredibly inaccurate, that I wish I would have stuck
 up for myself more at the time. Oh well.
 
-You can find me on [Instagram](http://instagram.com/e10jc) or [Twitter](http://twitter.com/e10jc),
-neither of which I really use, or if you really want to talk to me, email me at [ethan@czahor.com](mailto:ethan@czahor.com).
+You can find me on [Instagram](http://instagram.com/e10jc) or [Twitter](http://twitter.com/e10jc).
