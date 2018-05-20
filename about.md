@@ -4,7 +4,7 @@ title: About
 description: About Ethan Jon Czahor.
 ---
 
-I'm Ethan, and I'm currently working on [Coder Intros](https://coderintros.com/). In
+I'm Ethan, and I'm currently working on [Indigov](https://indigov.us/) and [Happy Healthy](https://www.thehappyhealthyco.com/). In
 the past, I've been the CTO or VP Engineering at [Independent Journal Review](https://ijr.com),
 [Bold](http://bold.global) (co-founder), [America Rising](https://www.americarisingpac.org),
 [Clear](https://www.heyclear.com) (co-founder), [Right to Rise PAC](https://en.wikipedia.org/wiki/Right_to_Rise),
