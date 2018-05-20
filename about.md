@@ -1,4 +1,5 @@
 ---
+redirect_from: "/"
 layout: post
 title: About
 description: About Ethan Jon Czahor.
