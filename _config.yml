@@ -4,9 +4,6 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 permalink: /:year/:month/:title
-timezone: America/New_York
 images_folder: /images/
-gems:
-  - jekyll-sitemap
 plugins:
-  - jekyll-redirect-from
+  - jekyll-sitemap
